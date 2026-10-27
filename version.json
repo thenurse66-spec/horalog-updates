@@ -1,5 +1,5 @@
 {
-  "version": "9.18",
-  "notes": "- Geofencing mit automatischer Pausen-Abfrage\n- Schutz für freie Tage & Wochenenden\n- Auto-Update Funktion",
-  "downloadUrl": "https://raw.githubusercontent.com/thenurse66-spec/horalog-updates/main/HoraLog_v9.18.apk"
+  "version": "9.19",
+  "notes": "- Automatische System- & Berechtigungsprüfung (GPS, Akku, Push)\n- Interaktives Onboarding & Geführter Rundgang (inkl. Vorgaben-Ersteinrichtung)\n- Pflichtbegründung bei manuellen Zeitenkorrekturen\n- Test-Button für Geofence-Benachrichtigung & Diagnose",
+  "downloadUrl": "https://raw.githubusercontent.com/thenurse66-spec/horalog-updates/main/HoraLog_v9.19.apk"
 }
